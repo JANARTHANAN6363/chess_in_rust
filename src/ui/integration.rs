@@ -551,7 +551,7 @@ impl GameController {
             BOLD, BRIGHT_CYAN, RESET
         );
         println!(
-            "{}{}║              RUST CHESS ENGINE v2.0                    ║{}",
+            "{}{}║              RUST CHESS ENGINE v0.2.0                    ║{}",
             BOLD, BRIGHT_CYAN, RESET
         );
         println!(
