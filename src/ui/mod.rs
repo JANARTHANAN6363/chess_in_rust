@@ -156,7 +156,7 @@ impl BoardDisplay {
     pub fn print_board(&self, board: &Board) {
         use colors::*;
 
-        println!("    ╔════════════════════════════════════════════╗");
+        println!("    ╔════════════════════════════════════════╗");
 
         let ranks: Vec<i32> = if self.flip_board {
             (0..8).collect()
@@ -203,7 +203,7 @@ impl BoardDisplay {
             println!("║");
         }
 
-        println!("    ╚════════════════════════════════════════════╝");
+        println!("    ╚════════════════════════════════════════╝");
 
         // File labels
         if self.flip_board {
